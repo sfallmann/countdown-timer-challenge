@@ -58,6 +58,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: var(--black-blue);
+
 } 
 
 body * {
@@ -246,3 +247,4 @@ main {
   font-size: 11px; text-align: center; 
 }
 .attribution a { color: hsl(228, 45%, 44%); }
+
